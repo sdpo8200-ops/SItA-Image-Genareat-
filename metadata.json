@@ -1,0 +1,6 @@
+{
+  "name": "SITA AI Photo Studio",
+  "description": "AI-powered passport and official photo preparation studio for Bangladesh - স্বপন আইটি একাডেমি",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
